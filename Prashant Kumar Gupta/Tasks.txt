@@ -1,4 +1,4 @@
-TASK-1
+DAY-1
 1 What do you mean by git and GitHub?
 Git is a version control system that lets you manage and keep track of your source code history. It is designed to handle everything from small to very large projects with speed and efficiency.
 GitHub is a cloud-based hosting service that lets you manage Git repositories. If you have open-source projects that use Git, then GitHub is designed to help you better manage them.
@@ -22,7 +22,7 @@ e. Beanstalk
 Git and Github are the two most popular technologies for developers. As it provides features that help to build your projects safely, securely, and by taking the help of others through their contributions.
 Also, it's a platform where you can do open source contributions and is used by millions of people, develops interest among developers.
 
-TASK -2
+DAY -2
 1. How git workflow works?
 First make a github account and configure git on your system.
 Make a folder and initialize it with git by git init.
