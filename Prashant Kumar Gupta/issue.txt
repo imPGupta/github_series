@@ -1,2 +1,2 @@
-This is file only to create issues.
+This file is only to create issue.
 You are in issue now.
